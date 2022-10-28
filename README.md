@@ -32,7 +32,7 @@ Para el `<html>` es:
 
 Teniendo como resultado:
 
-![input_simple](/Input_Text%20_CSS/img/input_simple.png)
+![input_simple](/img/input_simple.PNG)
 
 ## Input Type="Text" con placeholder Flotante
 
@@ -81,7 +81,7 @@ Para el `<html>` es:
 
 Teniendo como resultado:
 
-![input_flotante](/Input_Text%20_CSS/img/input_flotante.PNG)
+![input_flotante](/img/input_flotante.PNG)
 
 ## Input Type="Text" con Contorno
 
@@ -138,7 +138,7 @@ Para el `<html>` es:
 
 Teniendo como resultado:
 
-![input_contorno](/Input_Text%20_CSS/img/input_contorno.PNG)
+![input_contorno](/img/input_contorno.PNG)
 
 ## Input Type="Text" con Linea debajo
 
@@ -194,4 +194,4 @@ Para el `<html>` es:
 
 Teniendo como resultado:
 
-![input_linea](/Input_Text%20_CSS/img/input_linea.PNG)
+![input_linea](/img/input_linea.PNG)
